@@ -3,18 +3,18 @@ body{
     color:#fff;
 }
 
-.logincard{
+.card-width{
     min-width: 30vw;
 }
 
 @media (max-width: 1200px) {
-    .logincard{
+    .card-width{
         min-width: 50vw;
     }
   }
 
 @media (max-width: 768px) {
-    .logincard{
+    .card-width{
         min-width: 95vw;
     }
   }
