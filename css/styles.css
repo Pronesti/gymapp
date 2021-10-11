@@ -1,0 +1,20 @@
+body{
+    background-color:#343a40;
+    color:#fff;
+}
+
+.logincard{
+    min-width: 30vw;
+}
+
+@media (max-width: 1200px) {
+    .logincard{
+        min-width: 50vw;
+    }
+  }
+
+@media (max-width: 768px) {
+    .logincard{
+        min-width: 95vw;
+    }
+  }
