@@ -1,11 +1,14 @@
 body{
     background-color:#343a40;
     color:#fff;
+    padding-top: 65px; 
 }
 
 .card-width{
     min-width: 30vw;
 }
+
+
 
 @media (max-width: 1200px) {
     .card-width{
@@ -16,5 +19,8 @@ body{
 @media (max-width: 768px) {
     .card-width{
         min-width: 95vw;
+    }
+    .mapa{
+        width: 100%;
     }
   }
